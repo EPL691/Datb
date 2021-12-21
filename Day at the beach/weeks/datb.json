@@ -1,0 +1,31 @@
+{
+	"storyName": "Day at the beach Feat.gamingmonkeyt",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "datb",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"beach-day",
+			"Epl",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "A Day at the beachBeach"
+}

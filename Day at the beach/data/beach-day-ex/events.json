@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "beachex",
+		"player1": "jellyex",
+		"player2": "eplex",
+		"player3": null,
+		"events": [
+			[
+				39100,
+				[
+					[
+						"Play Animation",
+						"Smile",
+						"Dad"
+					]
+				]
+			],
+			[
+				39900,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "Umbrella",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "beach-day-ex"
+	}
+}

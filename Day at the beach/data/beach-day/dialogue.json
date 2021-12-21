@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "Epl",
+			"text": "Hello guys today were at the beach",
+			"boxState": "normal",
+			"portrait": "beachday",
+			"speed": 0.05
+		},
+		{
+			"expression": "Epl",
+			"text": "with my friend james diez....",
+			"boxState": "normal",
+			"portrait": "beachday",
+			"speed": 0.05
+		},
+		{
+			"expression": "Epl",
+			"text": "  ...Nuts",
+			"boxState": "normal",
+			"portrait": "beachday",
+			"speed": 0.05
+		},
+		{
+			"expression": "jelly angery",
+			"text": "*Agery*",
+			"boxState": "normal",
+			"portrait": "beachday",
+			"speed": 0.025
+		},
+		{
+			"expression": "hah",
+			"text": "... hah",
+			"boxState": "normal",
+			"portrait": "beachday",
+			"speed": 0.05
+		},
+		{
+			"expression": "Epl",
+			"text": "Soo anyways wanna friday night funk in the bed-",
+			"boxState": "normal",
+			"portrait": "beachday",
+			"speed": 0.05
+		},
+		{
+			"expression": "epl shocked",
+			"text": "wait no wrong script",
+			"boxState": "angry",
+			"portrait": "beachday",
+			"speed": 0.025
+		},
+		{
+			"expression": "Epl",
+			"text": "anyways wanna rap",
+			"boxState": "normal",
+			"portrait": "beachday",
+			"speed": 0.05
+		},
+		{
+			"expression": "jelleh",
+			"text": "*nods*",
+			"boxState": "normal",
+			"portrait": "beachday",
+			"speed": 0.025
+		}
+	]
+}

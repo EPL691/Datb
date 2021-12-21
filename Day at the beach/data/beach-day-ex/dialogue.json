@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"expression": "Epl",
+			"text": "Heyyyyy jelllehh",
+			"boxState": "normal",
+			"portrait": "beachdayex",
+			"speed": 0.05
+		},
+		{
+			"expression": "jelleh",
+			"text": "Heyyyyyy",
+			"boxState": "normal",
+			"portrait": "beachdayex",
+			"speed": 0.05
+		},
+		{
+			"expression": "Epl",
+			"text": "Lets Rapeee",
+			"boxState": "normal",
+			"portrait": "beachdayex",
+			"speed": 0.05
+		},
+		{
+			"expression": "epl shocked",
+			"text": "GOD DAMIT EPL WHY DID YOU HAVE TO MAKE ME SAY SOMETHING WRONG IN THIS DIALOG TOO",
+			"boxState": "angry",
+			"portrait": "beachdayex",
+			"speed": 0.015
+		},
+		{
+			"expression": "Epl",
+			"text": "Cause i can lolololololo",
+			"boxState": "normal",
+			"portrait": "beachday",
+			"speed": 0.05
+		},
+		{
+			"expression": "epl shocked",
+			"text": "YOU LITTLE-",
+			"boxState": "angry",
+			"portrait": "beachdayex",
+			"speed": 0.01
+		},
+		{
+			"expression": "Epl",
+			"text": "bro we know whats gonna happen you scream and then try to kill me",
+			"boxState": "normal",
+			"portrait": "beachday",
+			"speed": 0.05
+		},
+		{
+			"expression": "Epl",
+			"text": "i give up",
+			"boxState": "normal",
+			"portrait": "beachdayex",
+			"speed": 0.05
+		},
+		{
+			"expression": "Epl",
+			"text": "anyways Letss rapppp",
+			"boxState": "normal",
+			"portrait": "beachdayex",
+			"speed": 0.05
+		},
+		{
+			"expression": "Epl",
+			"text": "thank you epl for not making me say something wrong again",
+			"boxState": "normal",
+			"portrait": "beachdayex",
+			"speed": 0.05
+		},
+		{
+			"expression": "Epl",
+			"text": "Np",
+			"boxState": "normal",
+			"portrait": "beachday",
+			"speed": 0.05
+		},
+		{
+			"expression": "Epl",
+			"text": "anyways lets begin already",
+			"boxState": "normal",
+			"portrait": "beachdayex",
+			"speed": 0.05
+		}
+	]
+}

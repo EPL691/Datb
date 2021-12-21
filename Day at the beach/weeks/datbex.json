@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Beach-day-ex",
+			"Eplex",
+			[
+				255,
+				255,
+				13
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "datbex",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "its a Awsome day at the beach",
+	"weekName": "(EX) Day at the beach",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

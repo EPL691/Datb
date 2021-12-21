@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				50
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				-10,
+				-20
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				11,
+				67
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				57,
+				37
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				-30,
+				29
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				42,
+				64
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "Smile",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				44,
+				70
+			],
+			"indices": [
+				17,
+				18
+			],
+			"fps": 6,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "BF hit"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Eplex",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "Eplex",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

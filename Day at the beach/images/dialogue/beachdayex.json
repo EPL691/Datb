@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "BF LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF0",
+			"anim": "Epl",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BF EXCITED LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF EXCITED0",
+			"anim": "hah",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BF PISSED LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF PISSED0",
+			"anim": "jelly angery",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BF SHOCK LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF SHOCK0",
+			"anim": "epl shocked",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "BF CONFUSED LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF CONFUSED0",
+			"anim": "jelleh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "beachdayex"
+}
